@@ -1,0 +1,82 @@
+[
+  {
+    "username": "admin",
+    "ip": "::1",
+    "timestamp": 1749100399425
+  },
+  {
+    "username": "admin",
+    "ip": "::1",
+    "timestamp": 1749102211767
+  },
+  {
+    "username": "owner",
+    "ip": "::1",
+    "timestamp": 1749102341596
+  },
+  {
+    "username": "owner",
+    "ip": "::1",
+    "timestamp": 1749103214443
+  },
+  {
+    "username": "owner",
+    "ip": "::1",
+    "timestamp": 1749107156701
+  },
+  {
+    "username": "viewer",
+    "ip": "::1",
+    "timestamp": 1749107217466
+  },
+  {
+    "username": "viewer",
+    "ip": "::1",
+    "timestamp": 1749108386601
+  },
+  {
+    "username": "owner",
+    "ip": "::1",
+    "timestamp": 1749113426916
+  },
+  {
+    "username": "owner",
+    "ip": "::1",
+    "timestamp": 1749277484204
+  },
+  {
+    "username": "owner",
+    "ip": "::1",
+    "timestamp": 1749291125701
+  },
+  {
+    "username": "owner",
+    "ip": "::1",
+    "timestamp": 1749292544915
+  },
+  {
+    "username": "owner",
+    "ip": "::1",
+    "timestamp": 1749292552387
+  },
+  {
+    "username": "admin1",
+    "ip": "::1",
+    "timestamp": 1749292947103
+  },
+  {
+    "username": "admin1",
+    "ip": "::1",
+    "timestamp": 1749303597780
+  },
+  {
+    "username": "owner",
+    "ip": "::1",
+    "timestamp": 1749304738252
+  },
+  {
+    "username": "viewer",
+    "ip": "::1",
+    "timestamp": 1749304815718
+  }
+]

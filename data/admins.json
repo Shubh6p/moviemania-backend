@@ -1,0 +1,32 @@
+[
+  {
+    "username": "owner",
+    "password": "1234",
+    "role": "owner",
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "lastLogin": {
+      "timestamp": 1749304738256,
+      "ip": "::1"
+    }
+  },
+  {
+    "username": "admin1",
+    "password": "admin123",
+    "role": "admin",
+    "createdAt": "2025-06-05T05:33:27.471Z",
+    "lastLogin": {
+      "timestamp": 1749303597785,
+      "ip": "::1"
+    }
+  },
+  {
+    "username": "viewer",
+    "password": "viewer123",
+    "role": "viewer",
+    "createdAt": "2025-06-05T05:44:36.668Z",
+    "lastLogin": {
+      "timestamp": 1749304815719,
+      "ip": "::1"
+    }
+  }
+]
